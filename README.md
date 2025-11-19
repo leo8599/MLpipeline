@@ -15,7 +15,7 @@ wids-datathon-2024/
 │   └── test.csv             # (Debes colocar aquí tu archivo descargado)
 ├── mlruns/                  # (Se generará automáticamente por MLflow)
 ├── notebooks/
-│   └── Actividad_1_analisis.ipynb  # (Tu notebook original)
+│   └── Actividad_1_analisis.ipynb  # (Notebook Original Act1)
 ├── src/
 │   ├── __init__.py          # (Archivo vacío para reconocer la carpeta como paquete)
 │   ├── module_data.py       # Lógica de procesamiento de datos
@@ -46,4 +46,14 @@ kaggle competitions download -c widsdatathon2024-challenge1
 mkdir -p data
 unzip widsdatathon2024-challenge1.zip -d data/
 ```
+### 
+5. Entorno Virtual
 
+Se recomienda utilizar un entorno virtual (conda o venv).
+
+```bash
+# Ejemplo con venv
+python -m venv venv
+source venv/bin/activate  # En Linux/macOS
+# venv\Scripts\activate   # En Windows
+```
