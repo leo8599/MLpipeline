@@ -22,7 +22,7 @@ def main():
         return
 
     print("Limpiando y transformando datos...")
-    df_clean = processor.clean_and_transform(df_raw, is_train=True)w
+    df_clean = processor.clean_and_transform(df_raw, is_train=True)
     
     print("Codificando y dividiendo datos (Train/Val)...")
     X_train, X_val, y_train, y_val = processor.prepare_for_training(df_clean)
