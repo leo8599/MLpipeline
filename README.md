@@ -15,7 +15,7 @@ wids-datathon-2024/
 │   └── test.csv             # (Debes colocar aquí tu archivo descargado)
 ├── mlruns/                  # (Se generará automáticamente por MLflow)
 ├── notebooks/
-│   └── Actividad_1_analisis.ipynb  # (Tu notebook original)
+│   └── Actividad_1_analisis.ipynb  # (Notebook Original Act1)
 ├── src/
 │   ├── __init__.py          # (Archivo vacío para reconocer la carpeta como paquete)
 │   ├── module_data.py       # Lógica de procesamiento de datos
