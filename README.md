@@ -8,6 +8,7 @@ Se han aplicado buenas prácticas de desarrollo, separando la lógica de datos, 
 
 ## Estructura del Repositorio
 
+```
 wids-datathon-2024/
 ├── data/
 │   ├── training.csv         # (Debes colocar aquí tu archivo descargado)
@@ -22,4 +23,27 @@ wids-datathon-2024/
 ├── main.py                  # Script principal de ejecución
 ├── requirements.txt         # Dependencias del proyecto
 └── README.md                # Documentación (basada en la que subiste)
+```
+
+## Instalación y Configuración
+
+### Descargar los Datos
+
+1. Instala la API de Kaggle:
+```bash
+pip install kaggle
+```
+
+2. Configura tus credenciales de Kaggle siguiendo las [instrucciones oficiales](https://github.com/Kaggle/kaggle-api#api-credentials)
+
+3. Descarga los datos del concurso:
+```bash
+kaggle competitions download -c widsdatathon2024-challenge1
+```
+
+4. Extrae los archivos en la carpeta `data/`:
+```bash
+mkdir -p data
+unzip widsdatathon2024-challenge1.zip -d data/
+```
 
