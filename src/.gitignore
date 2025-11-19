@@ -9,7 +9,7 @@ data/sample_submission.csv
 data/test.csv
 data/training.csv
 .vscode/
-notebooks/Untitled.ipynb
+notebooks/Actividad 1 - Análisis Exploratorio WIDS 2024.ipynb
 mlruns/
 
 # C extensions
