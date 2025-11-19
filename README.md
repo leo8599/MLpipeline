@@ -22,7 +22,7 @@ wids-datathon-2024/
 │   └── module_ml.py         # Lógica de modelado y MLflow
 ├── main.py                  # Script principal de ejecución
 ├── requirements.txt         # Dependencias del proyecto
-└── README.md                # Documentación (basada en la que subiste)
+└── README.md                # Documentación
 ```
 
 ## Instalación y Configuración
