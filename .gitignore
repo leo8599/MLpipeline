@@ -10,7 +10,7 @@ data/test.csv
 data/training.csv
 .vscode/
 notebooks/Actividad 1 - Análisis Exploratorio WIDS 2024.ipynb
-mlruns/
+#mlruns/
 
 # C extensions
 *.so
