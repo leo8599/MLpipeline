@@ -46,4 +46,14 @@ kaggle competitions download -c widsdatathon2024-challenge1
 mkdir -p data
 unzip widsdatathon2024-challenge1.zip -d data/
 ```
+### 
+5. Entorno Virtual
 
+Se recomienda utilizar un entorno virtual (conda o venv).
+
+```bash
+# Ejemplo con venv
+python -m venv venv
+source venv/bin/activate  # En Linux/macOS
+# venv\Scripts\activate   # En Windows
+```
