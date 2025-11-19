@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/PROJECTS%20VSCODE/MCD/MLpipeline/mlruns/680575915256995735/f801eb9a8a1a449ebb4641e41e161dda/artifacts
+end_time: 1763527343284
+entry_point_name: ''
+experiment_id: '680575915256995735'
+lifecycle_stage: active
+run_id: f801eb9a8a1a449ebb4641e41e161dda
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763527342827
+status: 3
+tags: []
+user_id: leo85

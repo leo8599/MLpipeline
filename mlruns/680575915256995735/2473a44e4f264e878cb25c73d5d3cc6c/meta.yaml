@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/PROJECTS%20VSCODE/MCD/MLpipeline/mlruns/680575915256995735/2473a44e4f264e878cb25c73d5d3cc6c/artifacts
+end_time: 1763527348087
+entry_point_name: ''
+experiment_id: '680575915256995735'
+lifecycle_stage: active
+run_id: 2473a44e4f264e878cb25c73d5d3cc6c
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763527343296
+status: 3
+tags: []
+user_id: leo85

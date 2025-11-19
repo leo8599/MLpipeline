@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/PROJECTS%20VSCODE/MCD/MLpipeline/mlruns/680575915256995735/a3bcc3114ec7445b95acac70ae15d3ba/artifacts
+end_time: 1763527391313
+entry_point_name: ''
+experiment_id: '680575915256995735'
+lifecycle_stage: active
+run_id: a3bcc3114ec7445b95acac70ae15d3ba
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763527388920
+status: 3
+tags: []
+user_id: leo85

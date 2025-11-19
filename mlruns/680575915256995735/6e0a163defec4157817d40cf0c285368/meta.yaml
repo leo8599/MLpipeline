@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/PROJECTS%20VSCODE/MCD/MLpipeline/mlruns/680575915256995735/6e0a163defec4157817d40cf0c285368/artifacts
+end_time: 1763527388907
+entry_point_name: ''
+experiment_id: '680575915256995735'
+lifecycle_stage: active
+run_id: 6e0a163defec4157817d40cf0c285368
+run_name: MLP (Neural Net)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763527348099
+status: 3
+tags: []
+user_id: leo85
