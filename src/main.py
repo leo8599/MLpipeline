@@ -1,6 +1,6 @@
 import pandas as pd
-from src.module_data import WidsDataProcessor
-from src.module_ml import ModelTrainer
+from module_data import WidsDataProcessor
+from module_ml import ModelTrainer
 
 # Importar modelos
 from sklearn.linear_model import LogisticRegression
