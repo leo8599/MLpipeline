@@ -57,7 +57,7 @@ python -m venv venv
 source venv/bin/activate  # En Linux/macOS
 # venv\Scripts\activate   # En Windows
 ```
-O en su defecto crear un env desde 0,  de preferencia python 3.10, y realizar lo siguiente:
+O en su defecto crear un env desde 0 en anaconda,  de preferencia python 3.10, y realizar lo siguiente:
 
 1- Crea los archivos con el código proporcionado en las carpetas correspondientes.
 
