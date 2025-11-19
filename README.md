@@ -60,7 +60,12 @@ source venv/bin/activate  # En Linux/macOS
 O en su defecto crear un env desde 0,  de preferencia python 3.10, y realizar lo siguiente:
 
 1- Crea los archivos con el código proporcionado en las carpetas correspondientes.
+
 2- Coloca tu training.csv dentro de la carpeta data/.
+
 3- Instala las librerías: pip install -r requirements.txt
+
 4- Ejecuta el pipeline: python main.py
+
 5- Para ver los gráficos de comparación y logs, ejecuta en tu terminal: mlflow ui y abre el enlace que aparece (usualmente http://localhost:5000).
+
